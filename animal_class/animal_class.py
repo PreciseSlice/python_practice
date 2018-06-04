@@ -76,13 +76,13 @@ class Animal(object):
     print (self.name)
     print (self.age)
     
-hippo = Animal("Bob", 3)
-hippo.description()
+# hippo = Animal("Bob", 3)
+# hippo.description()
 
-sloth = Animal("Tim", 2)
-ocelot = Animal("Marb", 4)
+# sloth = Animal("Tim", 2)
+# ocelot = Animal("Marb", 4)
 
-print(hippo.health)
-print(sloth.health)
-print(ocelot.health)
+# print(hippo.health)
+# print(sloth.health)
+# print(ocelot.health)
 
